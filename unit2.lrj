@@ -1,0 +1,9 @@
+{"version":1,"strings":[
+{"hash":24874381,"name":"tsettingsform.caption","sourcebytes":[83,101,116,116,105,110,103,115,70,111,114,109],"value":"SettingsForm"},
+{"hash":317012,"name":"tsettingsform.fontbutton.caption","sourcebytes":[70,111,110,116],"value":"Font"},
+{"hash":4875106,"name":"tsettingsform.colorbutton.caption","sourcebytes":[67,111,108,111,114],"value":"Color"},
+{"hash":217509650,"name":"tsettingsform.defaultcolorbutton.caption","sourcebytes":[68,101,102,97,117,108,116,32,67,111,108,111,114],"value":"Default Color"},
+{"hash":215241653,"name":"tsettingsform.setbgimagebutton.caption","sourcebytes":[83,101,116,32,66,71,32,73,109,97,103,101],"value":"Set BG Image"},
+{"hash":97801781,"name":"tsettingsform.resetbgimagebutton.caption","sourcebytes":[82,101,115,101,116,32,66,71,32,73,109,97,103,101],"value":"Reset BG Image"},
+{"hash":139375349,"name":"tsettingsform.language.caption","sourcebytes":[76,97,110,103,117,97,103,101],"value":"Language"}
+]}

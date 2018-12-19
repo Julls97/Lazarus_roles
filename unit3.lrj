@@ -1,0 +1,12 @@
+{"version":1,"strings":[
+{"hash":134403005,"name":"tmainform.caption","sourcebytes":[77,97,105,110,70,111,114,109],"value":"MainForm"},
+{"hash":127854081,"name":"tmainform.tabsheet1.caption","sourcebytes":[84,97,98,83,104,101,101,116,49],"value":"TabSheet1"},
+{"hash":127854082,"name":"tmainform.tabsheet2.caption","sourcebytes":[84,97,98,83,104,101,101,116,50],"value":"TabSheet2"},
+{"hash":174443954,"name":"tmainform.buttonadduser.caption","sourcebytes":[65,100,100,32,85,115,101,114],"value":"Add User"},
+{"hash":53284162,"name":"tmainform.buttonrenameuser.caption","sourcebytes":[82,101,110,97,109,101,32,85,115,101,114],"value":"Rename User"},
+{"hash":171903746,"name":"tmainform.buttondeleteuser.caption","sourcebytes":[68,101,108,101,116,101,32,85,115,101,114],"value":"Delete User"},
+{"hash":15202820,"name":"tmainform.buttonchangeuserpassword.caption","sourcebytes":[67,104,97,110,103,101,32,80,97,115,115,119,111,114,100],"value":"Change Password"},
+{"hash":3871088,"name":"tmainform.radiogroupusersroles.caption","sourcebytes":[82,97,100,105,111,71,114,111,117,112],"value":"RadioGroup"},
+{"hash":93091476,"name":"tmainform.buttonreport.caption","sourcebytes":[82,101,112,111,114,116],"value":"Report"},
+{"hash":322608,"name":"tmainform.help.text","sourcebytes":[72,101,108,112],"value":"Help"}
+]}
